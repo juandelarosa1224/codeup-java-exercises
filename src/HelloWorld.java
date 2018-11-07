@@ -38,6 +38,8 @@ String myString = "this is my string";
 //        int y = 2;
 //        x = x / y;
 //        y = y - x;
+//        x /= y;
+//        y -= x;
 
     }
 }
