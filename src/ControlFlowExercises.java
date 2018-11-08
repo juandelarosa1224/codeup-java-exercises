@@ -159,32 +159,32 @@ public class ControlFlowExercises {
 //
 //        Edit your grade ranges to include pluses and minuses (ex: 99-100 = A+).
 
-        System.out.println("Enter a numberical grade 0 to 100: ");
+//        System.out.println("Enter a numberical grade 0 to 100: ");
+////
+//        int grade = sc.nextInt();
+//        if ((grade <= 100) && (grade >= 88)) {
+//            System.out.println("Grade: A");
+//        } else if ((grade <= 87) && (grade >= 80)) {
+//            System.out.println("Grade: B");
+//        } else if ((grade <= 79) && (grade >= 67)) {
+//            System.out.println("Grade: C");
+//        } else if ((grade <= 66) && (grade >= 60)) {
+//            System.out.println("Grade: D");
+//        } else if ((grade <= 59) && (grade >= 0)) {
+//            System.out.println("Grade: F");
+//        } else {
+//            System.out.println("Invalid: enter a numerical grade 0 - 100");
+//        }
 //
-        int grade = sc.nextInt();
-        if ((grade <= 100) && (grade >= 88)) {
-            System.out.println("Grade: A");
-        } else if ((grade <= 87) && (grade >= 80)) {
-            System.out.println("Grade: B");
-        } else if ((grade <= 79) && (grade >= 67)) {
-            System.out.println("Grade: C");
-        } else if ((grade <= 66) && (grade >= 60)) {
-            System.out.println("Grade: D");
-        } else if ((grade <= 59) && (grade >= 0)) {
-            System.out.println("Grade: F");
-        } else {
-            System.out.println("Invalid: enter a numerical grade 0 - 100");
-        }
-
-//        make another do/while loop for this to repeatedly ask if you would like to make another entry.
-        System.out.println("Continue? ");
-        Scanner input2 = new Scanner(System.in);
-        String more = input2.nextLine();
-        if (more.equalsIgnoreCase("yes")) {
-            System.out.println("Great!");
-        } else {
-            System.out.println("Maybe Next Time!");
-        }
+////        make another do/while loop for this to repeatedly ask if you would like to make another entry.
+//        System.out.println("Continue? ");
+//        Scanner input2 = new Scanner(System.in);
+//        String more = input2.nextLine();
+//        if (more.equalsIgnoreCase("yes")) {
+//            System.out.println("Great!");
+//        } else {
+//            System.out.println("Maybe Next Time!");
+//        }
     }
 }
 
