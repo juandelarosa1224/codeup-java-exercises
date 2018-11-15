@@ -33,12 +33,20 @@ public class Car {
 }
 
 
-//public class ArraysLecture {
-//    int[] nums = new int[3];
+// public class liquor {
+//  private string type;
+// private static boolean hasAlcohol = true;
+// private int percentAlcohol;
+// public void liquor() {}
 //
-//    System.out.println(nums[0]);
-//    System.out.println(nums[1]);
-//    System.out.println(nums[2]);
-//}
-
+//
+//
+//
+//
+//
+//
+//
+//
+//
+// }
 

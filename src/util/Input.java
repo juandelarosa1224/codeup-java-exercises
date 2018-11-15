@@ -18,7 +18,7 @@ public class Input {
     public int getInt(int min, int max){
         int input;
         do {
-            System.out.println("enter an integer");
+            System.out.println("Please enter a valid number");
             input = sc.nextInt();
         } while (input >= min && input <= max);
         return input;
