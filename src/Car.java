@@ -16,7 +16,8 @@ public class Car {
     public int getYear() {
         return this.year;
     }
-    public void setMake( String make) { this.make = make; }
+    public void setMake( String make) {
+        this.make = make; }
 
     public void setModel(String model) {
         this.model = model;
